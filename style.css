@@ -18,8 +18,8 @@ h1{
     font-size: 70px;
     font-weight: 900;
 }
-.half-width g{
-    width: 100%;
+.half-width img{
+    width: 70%;
 }
 .link-button{
     text-decoration: none;
@@ -28,4 +28,16 @@ h1{
     color: white;
     padding: 10px 40px;
     border-radius: 10px;
+}
+#container2{
+    display: flex;
+    background-image: url(images/shapes/7.png);
+}
+.my-recipies{
+    display: flex;
+}
+.recipies-item{
+    width: 20%;
+    padding-left: 5%;
+    margin-left: 2opx;
 }
