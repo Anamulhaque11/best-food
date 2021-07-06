@@ -70,19 +70,19 @@ h1{
 .text-center{
     text-align: center;
 }
-.my-recipies{
+.my-recipes{
     display: flex;
     padding-left: 5%;
    
    
 }
-.recipies-item{
+.recipes-item{
     width: 25%;
     margin: 40px;
     box-shadow: 10px 10px 40px gray;
     border-radius: 5%;
 }
-.recipies-item img{
+.recipes-item img{
    height: 300px;
    width: 400px;
    padding: 10px;
