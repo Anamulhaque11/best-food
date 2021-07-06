@@ -29,15 +29,39 @@ h1{
     padding: 10px 40px;
     border-radius: 10px;
 }
+
 #container2{
     display: flex;
     background-image: url(images/shapes/7.png);
 }
+.recipe{
+    
+    font-weight: lighter;
+}
+.text-center{
+    text-align: center;
+}
 .my-recipies{
     display: flex;
+    padding-left: 5%;
+   
+   
 }
 .recipies-item{
-    width: 20%;
-    padding-left: 5%;
-    margin-left: 2opx;
+    width: 25%;
+   margin: 40px;
+   box-shadow: 10px 10px 40px gray;
+   border-radius: 5%;
+}
+.recipies-item img{
+   height: 300px;
+   width: 400px;
+   padding: 10px;
+   margin: 10px;
+   border-radius: 10%;
+}
+.recipe-item-text{
+    text-align: left;
+    margin-left: 10px;
+    padding-left: 10px;
 }
